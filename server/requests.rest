@@ -1,0 +1,18 @@
+
+# POST http://localhost:3000/user-written-blogs
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzhlYmQ0NWI4MmIzMmY3YTg2ZGZmNyIsImlhdCI6MTc2NjE2MDI3OH0.IUngZ_9ca-8qPEdk7z19X1zackVREiHTL6q2d37_DKU
+# Content-Type: application/json
+
+# {
+#     "page": 1,
+#     "draft": true
+# }
+
+POST http://localhost:3000/user-written-blogs
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzEzNmI3YzNjNGZmOGYyODk0ODM2YiIsImlhdCI6MTc2NjE2MDYwNX0.KfniU8TepaqRb4FpDev01eIe2JMt0yl4KXv3N273s3s
+Content-Type: application/json
+
+{
+    "page": 1,
+    "draft": true
+}
