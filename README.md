@@ -1,10 +1,11 @@
-Blogging Website – MERN Stack Project
+Blogging Website
 
-*Giới thiệu
+Giới thiệu
 - Đây là dự án Website Blog được xây dựng theo kiến trúc Client – Server, sử dụng MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS).
 - Hệ thống cho phép người dùng đăng ký, đăng nhập, viết bài blog, quản lý bài viết, tương tác (like, comment), nhận thông báo và cá nhân hóa hồ sơ người dùng.
 
 Công nghệ sử dụng
+
 *Frontend
 - ReactJS (Vite)
 - React Router DOM – quản lý routing
@@ -14,6 +15,7 @@ Công nghệ sử dụng
 - Framer Motion – animation
 - EditorJS – soạn thảo nội dung blog
 - Firebase Authentication – đăng nhập Google
+
 *Backend
 - NodeJS
 - ExpressJS
@@ -24,6 +26,7 @@ Công nghệ sử dụng
 - dotenv – quản lý biến môi trường
 
 Chức năng chính
+
 *Người dùng
 - Đăng ký tài khoản
 - Đăng nhập / đăng nhập bằng Google
@@ -31,7 +34,7 @@ Chức năng chính
 - Đổi mật khẩu
 
 *Blog
--Viết bài blog bằng EditorJS
+- Viết bài blog bằng EditorJS
 - Lưu nháp hoặc xuất bản bài viết
 - Quản lý bài viết đã đăng
 - Xem danh sách blog mới và blog nổi bật
